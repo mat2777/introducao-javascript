@@ -2,10 +2,6 @@ var titulo = document.querySelector(".titulo");
 titulo.textContent = "Aparecida Nutricionista";
 
 /*  IMC = massa/altura^2    */
-var titulo = document.querySelector(".titulo");
-titulo.textContent = "Aparecida Nutricionista";
-
-/*  IMC = massa/altura^2    */
 var paciente = document.querySelector("#primeiro-paciente");
 var tdPeso = document.querySelector(".info-peso");
 var peso = tdPeso.textContent;
